@@ -1,5 +1,18 @@
 title: Tautvydas Petkus
+author: tauptk@telesoftas.com
 description: Softawre developer from Kaunas, Lithuania
-show_downloads: false
+
+show_excerpts: false
+
+minima:
+  date_format: "%Y %b %-d"
+  social_links:
+    github:  tauptk
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
 google_analytics: 206603721
-theme: jekyll-theme-tactile
